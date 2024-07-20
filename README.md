@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vasisht2414
-- 👀 I’m interested in Cyber security and Ethical Hacking
+- 👀 I’m interested in Cyber security, Ethical Hacking ,AI
 - 🌱 I’m currently learning Btech in AIML
 - ⚡ Fun fact: knows editing and photography 
 
